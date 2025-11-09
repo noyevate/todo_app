@@ -1,6 +1,6 @@
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter/material.dart';
-import 'package:_app/core/utils/themes.dart';
+import 'package:todo_app/core/utils/themes.dart';
 import 'theme_event.dart';
 import 'theme_state.dart';
 
