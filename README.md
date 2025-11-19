@@ -51,6 +51,10 @@ The goal was to ensure the reliability of core business logic and repository beh
 
 ---
 
+## App dowload link
+
+google_drive link: https://drive.google.com/file/d/1Iny2usaaFM65JN2PuSLPiMqp4KMQldu_/view?usp=sharing
+
 ## ⚙️ Summary
 
 todo app  demonstrates how to structure a Flutter application using Clean Architecture with clear boundaries between UI, domain, and data layers.  
